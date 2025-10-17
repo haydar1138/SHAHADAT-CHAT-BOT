@@ -2,7 +2,7 @@ module.exports.config = {
  name: "onlyadmin",
  version: "1.0",
  hasPermssion: 2,
- credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+ credits: "𝐇𝐀𝐘𝐃𝐀𝐑 𝐍𝐎𝐖𝐀𝐉",
  description: "Admin only",
  commandCategory: "Admin",
  usages: "qtvonly",
